@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    margin-top: 90px;
+    border-width: 2px;
+    padding: 20px;
+    border-color: #2CB04E;
+    background-color: #9CFFB5;
+    color: #586659;
+    border-radius: 10px;
+    
+}

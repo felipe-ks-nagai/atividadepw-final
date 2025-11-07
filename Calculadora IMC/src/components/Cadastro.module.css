@@ -1,0 +1,51 @@
+
+.containerStyle {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+
+.inputStyle {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+.mensagemStyle {
+    padding: 8px 12px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    color: #0b6623;
+    background-color: #e6f4ea;
+    border: 1px solid #cfe8d6;
+}
+
+.mensagemStyle.error {
+    color: #8a1f1f;
+    background-color: #fdecea;
+    border-color: #f5c6c6;
+}
+
+.mensagemStyle.success {
+    color: #0b6623;
+    background-color: #e6f4ea;
+    border-color: #cfe8d6;
+}
+
+.buttonStyle {
+    width: 100%;
+    padding: 10px 12px;
+    border: none;
+    border-radius: 6px;
+    background: #1976d2;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+}
